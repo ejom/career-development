@@ -4,9 +4,9 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 ## Experience
 
-### Surge AI Remote USA
+### Surge AI | Remote USA
 
-#### Research Fellow - Software Engineering July 2026 - PRESENT
+#### Research Fellow / Software Engineering | July 2026 - PRESENT
 
 - Research common failure modes of frontier LLM models in software engineering tasks.
 
@@ -18,9 +18,9 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 - Solve software engineering tasks to define standards for success. This includes problems spanning databases (Postgres), backend applications (Python), and Frontend/FullStack applications (Typescript, Ruby).
 
-### DataAnnotation.tech Remote USA
+### DataAnnotation.tech | Remote USA
 
-#### AI Trainer - STEM Domain Expert August 2023 - July 2026
+#### AI Trainer / STEM Domain Expert | August 2023 - July 2026
 
 - Create prompts to induce LLM model failure across a variety of STEM domains (math, electrical engineering, and software engineering).
 
@@ -28,9 +28,9 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 - Compare different LLM models in their performance for solving graduate level STEM domain problems.
 
-### Laplacient Remote USA
+### Laplacient | Remote USA
 
-#### Founder September 2025 - PRESENT
+#### Founder | September 2025 - PRESENT
 
 - [[https://laplacient.com/]{.underline}](https://laplacient.com/)
 
@@ -38,9 +38,9 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 - Develop agentic automation tools for individuals and small businesses.
 
-### CadenceSEO Remote USA
+### CadenceSEO | Remote USA
 
-#### Software Engineer March 2026 - July 2026
+#### Software Engineer | March 2026 - July 2026
 
 - Develop full applications to automate internal tasks using agentic workflows.
 
@@ -50,9 +50,9 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 - Managed a small team of developers, coordinating git branching, environment variables for each teammate, and PR reviews.
 
-### Arizona State University Tempe, AZ
+### Arizona State University | Tempe, AZ
 
-#### Research Intern - Advanced Semiconductor Packaging June 2026 - July 2026
+#### Research Intern / Advanced Semiconductor Packaging | June 2026 - July 2026
 
 - Built and ran Ansys HFSS electromagnetic simulations to characterize signal integrity in advanced packaging structures, applying transmission line fundamentals (S-parameters, wave propagation, impedance matching) to interpret results.
 
@@ -60,7 +60,7 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 ## Projects and Research
 
-### IR-Drop Prediction ML Model - Semiconductor Solutions Challenge April 2026
+### IR-Drop Prediction ML Model / Semiconductor Solutions Challenge | April 2026
 
 Certificate: [[https://credid.asu.edu/public/awards/dd47b4e7-db6e-4c96-96e1-61d30329e5b6]{.underline}](https://credid.asu.edu/public/awards/dd47b4e7-db6e-4c96-96e1-61d30329e5b6)
 
@@ -70,7 +70,7 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 - Engineered a tensor data pipeline: Z-score normalized CSV inputs of PDN density, effective distance, and current stacked into 3-channel tensors.
 
-### Smartphone Battery & Power System Modeling - MCM Contest Paper Feb 2026
+### Smartphone Battery & Power System Modeling / MCM Contest Paper | Feb 2026
 
 [[https://github.com/ejom/MCM]{.underline}](https://github.com/ejom/MCM)
 
@@ -78,7 +78,7 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 - Simulated varying CPU usage, network, wifi, connectivity, and display to study their impact on smartphone battery life.
 
-### Grid-Connected Multi-String PV Inverter Simulation April 2026
+### Grid-Connected Multi-String PV Inverter Simulation | April 2026
 
 [[https://github.com/ejom/PV-Inverter-Simulink]{.underline}](https://github.com/ejom/PV-Inverter-Simulink)
 
@@ -86,10 +86,10 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 ## Education
 
-### Northern Arizona University (GPA 3.78) Flagstaff, AZ
+### Northern Arizona University (GPA 3.78) | Flagstaff, AZ
 
 - Linux Ubuntu WSL, Git, MATLAB, Semiconductor Devices (MOSFETs), Digital Signal Processing, PV Power Systems, FPGA design, embedded systems C/C++, Communications and Wireless Sensing.
 
-#### Master's in Electrical Engineering December 2027
+#### Master's in Electrical Engineering | December 2027
 
-#### Bachelor's in Electrical Engineering May 2027
+#### Bachelor's in Electrical Engineering | May 2027
