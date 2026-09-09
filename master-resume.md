@@ -48,7 +48,7 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 - Managed production deployments of applications using tools like Vercel, Supabase, Railway, Render, and Heroku.
 
-- Managed a small team of developers, coordinating git branching, environment variables for each teammate, and PR reviews.
+- Created and managed product documentation with GitHub PRs and product specification documents. 
 
 ### Arizona State University | Tempe, AZ
 
