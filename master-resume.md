@@ -6,7 +6,7 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 ### Surge AI | Remote USA
 
-#### Research Fellow / Software Engineering | July 2026 - PRESENT
+#### Research Fellow / Software Engineering | July 2026 - Present
 
 - Research common failure modes of frontier LLM models in software engineering tasks.
 
@@ -30,7 +30,7 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 ### Laplacient | Remote USA
 
-#### Founder | September 2025 - PRESENT
+#### Founder | September 2025 - Present
 
 - [[https://laplacient.com/]{.underline}](https://laplacient.com/)
 
@@ -70,7 +70,7 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 - Engineered a tensor data pipeline: Z-score normalized CSV inputs of PDN density, effective distance, and current stacked into 3-channel tensors.
 
-### Smartphone Battery & Power System Modeling / MCM Contest Paper | Feb 2026
+### Smartphone Battery & Power System Modeling / MCM Contest Paper | February 2026
 
 [[https://github.com/ejom/MCM]{.underline}](https://github.com/ejom/MCM)
 
