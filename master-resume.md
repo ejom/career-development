@@ -2,7 +2,7 @@
 
 Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com). [[https://github.com/ejom]{.underline}](https://github.com/ejom). [[https://www.linkedin.com/in/ethan-olsen-a607ab1ab/]{.underline}](https://www.linkedin.com/in/ethan-olsen-a607ab1ab/). [[https://laplacient.com]{.underline}](https://laplacient.com/).
 
-## Experience
+## Work Experience
 
 ### Surge AI | Remote USA
 
