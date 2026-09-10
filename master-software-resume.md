@@ -1,13 +1,16 @@
 # Ethan Olsen
 
-Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com). [[https://github.com/ejom]{.underline}](https://github.com/ejom). [[https://www.linkedin.com/in/ethan-olsen-a607ab1ab/]{.underline}](https://www.linkedin.com/in/ethan-olsen-a607ab1ab/). [[https://laplacient.com]{.underline}](https://laplacient.com/).
+Flagstaff, AZ 86005 | [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com) | [[https://github.com/ejom]{.underline}](https://github.com/ejom) | [[https://www.linkedin.com/in/ethan-olsen-a607ab1ab/]{.underline}](https://www.linkedin.com/in/ethan-olsen-a607ab1ab/) | [[https://laplacient.com]{.underline}](https://laplacient.com/)
 
 ## Skills
 
-**Languages:** Python, TypeScript/JavaScript, C/C++, Ruby, MATLAB, SQL
-**ML / AI:** PyTorch, LLM evaluation, agentic workflows, vector embeddings, semantic search
-**Web / Backend:** React, Next.js, Vite, FastAPI, PostgreSQL
-**Infrastructure / Tools:** Docker, Linux/WSL, Git, pytest, Vitest, Playwright, Vercel, Railway, Render, Heroku, Supabase
+**Languages:** Python, TypeScript/JavaScript, C/C++, Ruby, MATLAB, SQL.
+
+**ML / AI:** PyTorch, LLM evaluation, agentic workflows, vector embeddings, semantic search.
+
+**Web / Backend:** React, Next.js, Vite, FastAPI, PostgreSQL.
+
+**Infrastructure / Tools:** Docker, Linux/WSL, Git, pytest, Vitest, Playwright, Vercel, Railway, Render, Heroku, Supabase.  
 
 ## Work Experience
 
@@ -93,7 +96,7 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 [[https://github.com/ejom/PV-Inverter-Simulink]{.underline}](https://github.com/ejom/PV-Inverter-Simulink)
 
-- Built a two-stage grid-connected PV simulation in MATLAB/Simulink modeling dual DC/DC boost converters with Hill-Climbing MPPT, PID-controlled DC link, and AC grid injection stage
+- Built a two-stage grid-connected PV simulation in MATLAB/Simulink modeling dual DC/DC boost converters with Hill-Climbing MPPT, PID-controlled DC link, and AC grid injection stage.
 
 ## Education
 
