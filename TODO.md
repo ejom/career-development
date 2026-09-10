@@ -1,4 +1,0 @@
-- add specific metrics or numbers
-- Add an intro or summary?
-- Create a software specific master varient (focus on that one)
-- make experience chronological

@@ -4,6 +4,10 @@ Flagstaff, AZ 86005 | [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com
 
 &nbsp;
 
+Software engineer and AI/ML researcher with experience evaluating frontier LLMs, building production software and agentic automation systems, and developing machine-learning models for engineering applications. Background spans LLM evaluation, full-stack development, ML infrastructure, and electrical engineering, with experience delivering software across research, startup, and client environments.
+
+&nbsp;
+
 ## Skills
 
 **Languages:** Python, TypeScript/JavaScript, C/C++, Ruby, MATLAB, SQL.
