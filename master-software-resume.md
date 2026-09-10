@@ -62,9 +62,15 @@ Certificate: [[https://credid.asu.edu/public/awards/dd47b4e7-db6e-4c96-96e1-61d3
 
 Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_Ultron]{.underline}](https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_Ultron)
 
-- Designed a PyTorch U-Net (fully convolutional) model to predict power-delivery-network voltage drop across semiconductor layouts.
+- Designed a PyTorch U-Net fully convolutional model to predict power-delivery-network voltage drop across semiconductor layouts.
 
-- Engineered a tensor data pipeline: Z-score normalized CSV inputs of PDN density, effective distance, and current stacked into 3-channel tensors.
+- Pretrained on hundreds of synthetic circuit layouts and fine-tuned on a set of 10 real-circuit samples to generalize IR-drop prediction to 10 more unseen real designs.
+
+- Engineered a tensor data pipeline with Z-score normalized PDN density, effective distance, and current inputs stacked into 3-channel tensors.
+
+- Achieved RMSE = 0.54 mV, MAE = 0.45 mV, and NRMSE = 0.118 on held-out real-circuit data.
+
+- Achieved precision = 0.729, recall = 0.573, and F1 = 0.510 for detecting high IR-drop regions, defined as the top 10% of ground-truth voltage-drop values for each unique sample (values averaged across all samples).
 
 ### Smartphone Battery & Power System Modeling / MCM Contest Paper | February 2026
 
