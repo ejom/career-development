@@ -2,6 +2,8 @@
 
 Flagstaff, AZ 86005 | [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com) | [[https://github.com/ejom]{.underline}](https://github.com/ejom) | [[https://www.linkedin.com/in/ethan-olsen-a607ab1ab/]{.underline}](https://www.linkedin.com/in/ethan-olsen-a607ab1ab/) | [[https://laplacient.com]{.underline}](https://laplacient.com/)
 
+&nbsp;
+
 ## Skills
 
 **Languages:** Python, TypeScript/JavaScript, C/C++, Ruby, MATLAB, SQL.
@@ -11,6 +13,8 @@ Flagstaff, AZ 86005 | [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com
 **Web / Backend:** React, Next.js, Vite, FastAPI, PostgreSQL.
 
 **Infrastructure / Tools:** Docker, Linux/WSL, Git, pytest, Vitest, Playwright, Vercel, Railway, Render, Heroku, Supabase.  
+
+&nbsp;
 
 ## Work Experience
 
@@ -62,6 +66,8 @@ Flagstaff, AZ 86005 | [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com
 
 - Gained cleanroom process experience (lithography, etching, CVD) at ASU NanoFab and MacroTechnology Works; performed die wire-bond testing on the Sigma Bond Tester.
 
+&nbsp;
+
 ## Projects and Research
 
 ### IR-Drop Prediction ML Model / Semiconductor Solutions Challenge | April 2026
@@ -97,6 +103,8 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 [[https://github.com/ejom/PV-Inverter-Simulink]{.underline}](https://github.com/ejom/PV-Inverter-Simulink)
 
 - Built a two-stage grid-connected PV simulation in MATLAB/Simulink modeling dual DC/DC boost converters with Hill-Climbing MPPT, PID-controlled DC link, and AC grid injection stage.
+
+&nbsp;
 
 ## Education
 
