@@ -1,0 +1,42 @@
+Product Engineer Intern
+SF
+About the role
+We are looking for a Product Engineer Intern to join us this summer and help build the next generation of AI-powered data tooling at Hex.
+
+Our mission is to empower users to understand and work with data using natural language and agentic AI capabilities. As an intern, you’ll contribute directly to product features that sit at the core of how data teams explore, analyze, and collaborate. You don’t need prior AI experience to succeed - we’re looking for curiosity, enthusiasm, and a willingness to dive into fast-evolving technology.
+
+This is an opportunity to learn from experienced engineers, ship real features to production, and contribute meaningfully to one of the most exciting technical spaces of our time.
+
+What you will do
+As a Product Engineer Intern, you will work across the stack - paired with mentors and collaborating closely with designers, PMs, and AI engineers to build delightful, reliable, and intelligent user experiences.
+
+You will:
+
+Build real product features across the stack, using React, Typescript, and/or Python, helping power the core workflows used by thousands of data practitioners.
+Collaborate with AI engineers to prototype and refine agentic capabilities, explore prompting strategies, and improve model quality across user-facing experiences.
+Design and improve end-to-end workflows, contributing to features for collaborative editing, data exploration, debugging, or AI-assisted development.
+Solve practical engineering challenges, such as performance optimizations, front-end UX improvements, and API design supporting AI-driven features.
+Participate in the full development lifecycle, from ideation and design to implementation, testing, and launch.
+About you
+You are pursuing a degree in Computer Science, Engineering, or a related field, with plans to graduate in December 2026 or 2027.
+You have full-stack engineering experience, ideally Javascript, Typescript and/or Python, and have built projects, academic, personal, or professional, that demonstrate your ability to ship software.
+You have an interest in AI-driven product experiences, and are eager to learn how AI agents, prompting strategies, and context engineering work in production systems.
+You care about users and enjoy thinking about how technical systems translate into polished, intuitive experiences.
+You are curious, adaptable, and comfortable working in a fast-paced environment where priorities shift as new technology emerges.
+You enjoy collaborating with others, asking questions, and learning from more senior engineers.
+This is a hybrid role (3 days per week in office) based in San Francisco. 
+
+In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary & equity, comprehensive health benefits, and flexible paid time off.
+
+The salary range for this role is: $11,000 per month + housing stipend. 
+
+The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness & parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.
+
+By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy: https://learn.hex.tech/docs/trust/privacy-policy.
+
+Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our team evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output.
+
+About Hex
+Hex is growing our team of builders on a mission to make everyone a data person. Our platform solves key pain points with today’s data and analytics tooling, and empowers anyone to explore data using natural language, with or without code, on trusted context. Thousands of customers like Ramp, Figma, Stubhub, Anthropic, and Gamma love Hex for our beautiful UI, agentic superpowers, and boundless flexibility.
+
+Hex has raised over $100M from leading investors like Sequoia, a16z, Snowflake and Amplify. With office hubs in San Francisco and New York, as well as remote team members throughout the US and UK, we’re a high-agency team that ships fast and has fun doing it. Check out our Intro to Hex video and employee handbook to learn more about what it’s like to work at Hex.
