@@ -76,9 +76,13 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 [[https://github.com/ejom/MCM]{.underline}](https://github.com/ejom/MCM)
 
-- Co-authored a continuous-time GAM-based power model of smartphone battery life.
+- Co-authored a continuous-time, physics-based generalized additive model (GAM) of smartphone power consumption and battery life.
 
-- Simulated varying CPU usage, network, wifi, connectivity, and display to study their impact on smartphone battery life.
+- Simulated variations in CPU utilization, network connectivity, Wi-Fi/5G usage, and display activity to quantify their effects on battery life.
+
+- Identified network connectivity as a major driver of power consumption, with a Wi-Fi-only simulation achieving ~34 hours of battery life versus ~17 hours for 5G-only usage.
+
+- Parameterized usage variables using real smartphone usage statistics collected from an iPhone XR.
 
 ### Grid-Connected Multi-String PV Inverter Simulation | April 2026
 
