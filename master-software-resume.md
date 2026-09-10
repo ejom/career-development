@@ -2,21 +2,28 @@
 
 Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com). [[https://github.com/ejom]{.underline}](https://github.com/ejom). [[https://www.linkedin.com/in/ethan-olsen-a607ab1ab/]{.underline}](https://www.linkedin.com/in/ethan-olsen-a607ab1ab/). [[https://laplacient.com]{.underline}](https://laplacient.com/).
 
+## Skills
+
+**Languages:** Python, TypeScript/JavaScript, C/C++, Ruby, MATLAB, SQL
+**ML / AI:** PyTorch, LLM evaluation, agentic workflows, vector embeddings, semantic search
+**Web / Backend:** React, Next.js, Vite, FastAPI, PostgreSQL
+**Infrastructure / Tools:** Docker, Linux/WSL, Git, pytest, Vitest, Playwright, Vercel, Railway, Render, Heroku, Supabase
+
 ## Work Experience
 
 ### Surge AI | Remote USA
 
 #### Research Fellow / Software Engineering | August 2023 - Present
 
-- Research common failure modes of frontier LLM models in software engineering tasks.
+- Research common failure modes of frontier LLMs in software engineering tasks.
 
-- Designed 100+ conversations to induce LLM model failure across combinations of often 5 or more metrics (such as safety, interaction quality, accuracy, code quality, honesty, etc).
+- Designed 100+ adversarial conversations to induce frontier-LLM failures across 5+ evaluation dimensions, including safety, accuracy, code quality, honesty, and interaction quality.
 
-- Document 100+ LLM failure analysis reports in the form of grading rubrics, behavior analysis, and/or testing scripts (implemented using pytest, vitest, playwright, etc).  
+- Documented 100+ LLM failure analyses through grading rubrics, behavioral analyses, and automated testing scripts using pytest, Vitest, and Playwright.
 
-- Created 20+ software engineering environments to test LLM model capabilities using Docker and CLI tools (Linux/WSL shell scripting). These environments provide the models with the tools they need for the task for model testing without network access. 
+- Created 20+ containerized software engineering environments for evaluating LLM capabilities using Docker and Linux/WSL shell tooling, providing isolated task environments without network access.
 
-- Solve software engineering tasks to define standards for success, creating 100+ golden solutions represented as diff files, zipped repo states, etc. This includes problems spanning databases (Postgres), backend applications (Python), and Frontend/FullStack applications (Typescript, Ruby).
+- Solved software engineering tasks to establish reference standards, producing 100+ golden solutions represented as repository diffs, validated repository states, and other reference artifacts across databases, backend systems, and full-stack applications.
 
 ### Laplacient | Remote USA
 
@@ -38,13 +45,11 @@ Flagstaff, AZ 86005. [[ejom762@gmail.com]{.underline}](mailto:ejom762@gmail.com)
 
 #### Software Engineer | March 2026 - July 2026
 
-- Developed a page optimization platform that automated 200+ SEO optimization tasks per week, replacing roughly 60 hours of manual work. Scraped client web pages, evaluated keyword difficulty, search volume, and content relevance, and recommended updates to titles, headers, and meta descriptions.
+- Developed a page optimization platform that automated 200+ SEO optimization tasks per week, replacing roughly 60 hours of manual work per week. Scraped client web pages, evaluated keyword difficulty, search volume, and content relevance, and recommended updates to titles, headers, and meta descriptions.
 
 - Developed a content-topic generation platform that analyzed client keyword research and content coverage to identify 10+ keyword gaps per client and prioritize high-impact, feasible opportunities. Deployed across 30+ clients, generating 300+ content topics per week.
 
 - Built a public SEO toolset with 5+ free tools for prospective clients, including backlink analysis, SERP preview, page-speed testing, AI visibility, and Reddit visibility tools.
-
-- Built and deployed applications using TypeScript, React/Next.js/Vite, Python FastAPI, PostgreSQL, Docker, Git, and cloud platforms including Vercel, Supabase, Railway, Render, and Heroku.
 
 ### Arizona State University | Tempe, AZ
 
@@ -64,7 +69,7 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 - Designed a PyTorch U-Net fully convolutional model to predict power-delivery-network voltage drop across semiconductor layouts.
 
-- Pretrained on hundreds of synthetic circuit layouts and fine-tuned on a set of 10 real-circuit samples to generalize IR-drop prediction to 10 more unseen real designs.
+- Pretrained on hundreds of synthetic circuit layouts and fine-tuned on a set of 10 real-circuit samples to generalize IR-drop prediction to 10 unseen real designs.
 
 - Engineered a tensor data pipeline with Z-score normalized PDN density, effective distance, and current inputs stacked into 3-channel tensors.
 
@@ -94,8 +99,8 @@ Github: [[https://github.com/ejom/Semiconductor-Solutions-Challenge-Submission_U
 
 ### Northern Arizona University (GPA 3.78) | Flagstaff, AZ
 
-- Linux Ubuntu WSL, Git, MATLAB, Semiconductor Devices (MOSFETs), Digital Signal Processing, PV Power Systems, FPGA design, embedded systems C/C++, Communications and Wireless Sensing.
+M.S. Electrical Engineering | Expected December 2027
+B.S. Electrical Engineering | Expected May 2027
+GPA: 3.78
 
-#### Master's in Electrical Engineering | December 2027
-
-#### Bachelor's in Electrical Engineering | May 2027
+Relevant Coursework: Digital Signal Processing, Semiconductor Devices, FPGA Design, Embedded Systems, Communications & Wireless Sensing, PV Power Systems
